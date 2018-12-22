@@ -1,1 +1,1 @@
-my hotfix for issue 2
+my changes for issue 2, hotfix3 and hotfix4
